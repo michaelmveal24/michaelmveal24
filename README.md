@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @michaelmveal24
-- 👀 I’m interested in ... serving operators with useful profitability reports!
-- 🌱 I’m currently learning ... everything! Just started with CFA in June '24.
-- 📫 How to reach me ... michael.veal@cfacorp.com
+- 👀 I’m interested in ... serving operators with useful great stewardship tools.
 - ⚡ Fun fact: ... I love golf, UGA football, and Braves Baseball! 
 
 <!---
